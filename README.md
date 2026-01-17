@@ -20,3 +20,12 @@ This project is an AI/ML-based mental health chatbot designed to support student
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Flow
+Dataset → Model Training → Prediction → Chatbot UI → Mood Chart
+
+## done by
+Vaishnavi
+Third Year Computer Engineering
+
+
